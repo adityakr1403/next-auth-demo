@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Aditya-Kumar-s-workspace-ggejdm.us-east-1.xata.sh/db/test-auth-db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
